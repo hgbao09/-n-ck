@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNhaCungCap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NhaCungCap>
+    <id_ncc>NCC02</id_ncc>
+    <ten_ncc>XYZ Corporation</ten_ncc>
+    <dia_chi_ncc>Binh Chanh</dia_chi_ncc>
+    <sdt_ncc>34234</sdt_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>NCC03</id_ncc>
+    <ten_ncc>DEF Corporation</ten_ncc>
+    <dia_chi_ncc>Binh Thanh</dia_chi_ncc>
+    <sdt_ncc>34534</sdt_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>1</id_ncc>
+    <ten_ncc>NHB</ten_ncc>
+    <dia_chi_ncc>Quảng Ngãi</dia_chi_ncc>
+    <sdt_ncc>23423423</sdt_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>3</id_ncc>
+    <ten_ncc>HKN</ten_ncc>
+    <dia_chi_ncc>HCM</dia_chi_ncc>
+    <sdt_ncc>3423</sdt_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>2</id_ncc>
+    <ten_ncc>NPTD</ten_ncc>
+    <dia_chi_ncc>Quảng Ngãi</dia_chi_ncc>
+    <sdt_ncc>3424</sdt_ncc>
+  </NhaCungCap>
+</ArrayOfNhaCungCap>
